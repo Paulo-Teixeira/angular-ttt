@@ -1,5 +1,7 @@
 # AngularTtt
 
+Demo tic tac toe Progressive Web App deployed with Firebase on https://tic-tac-toe-7fada.firebaseapp.com
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
 ## Development server
