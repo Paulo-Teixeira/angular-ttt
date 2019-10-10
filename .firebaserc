@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tic-tac-toe-7fada": {
+      "hosting": {
+        "angular-ttt": [
+          "tic-tac-toe-7fada"
+        ]
+      }
+    }
+  },
+  "projects" : {
+    "default": "tic-tac-toe-7fada"
+  }
+}
