@@ -11,7 +11,9 @@ import { Component, Input } from '@angular/core';
       {{ value }}
     </button>
   `,
-  styles: ['button { width: 100%; height: 100%; font-size: 5em !important; }']
+  styles: [
+    'button { border: 0; font-size: 5em !important; height: 100%; width: 100%; }'
+  ]
 })
 export class SquareComponent {
   @Input() value: 'X' | 'O';
